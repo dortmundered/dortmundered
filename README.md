@@ -2,6 +2,7 @@
 
 ## I’m a Junior QA Manual, I like what i do
 
-Tools
+### Tools
+![Jira](https://img.shields.io/badge/-<Jira>-<#090909>)
 
 Follow Me
