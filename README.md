@@ -23,7 +23,7 @@
 
 ### Pet Projects
 [![Web Testing](https://img.shields.io/badge/-WebTesting-55e8f2?style=for-the-badge&logo=&logoColor=)](https://adventure-dispetcher.atlassian.net/l/cp/z0Fd1qF8)
-[![Mobile Testing](https://img.shields.io/badge/-WebTesting-55e8f2?style=for-the-badge&logo=&logoColor=)](https://adventure-dispetcher.atlassian.net/l/cp/4m1qhafM)
+[![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-55e8f2?style=for-the-badge&logo=&logoColor=)](https://adventure-dispetcher.atlassian.net/l/cp/4m1qhafM)
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66BE?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/adventure-dispetcher/)
