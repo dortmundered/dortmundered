@@ -18,4 +18,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-f7dfa1?style=for-the-badge&logo=html5&logoColor=)
 ![CSS](https://img.shields.io/badge/-CSS-a1d1ff?style=for-the-badge&logo=css3&logoColor=0084ff)
 
-Follow Me
+### Contact Me
+[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/adventure_dispetcher)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66BE?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/adventure-dispetcher/)
+[![Gmail](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=gmail&logoColor=)](mailto:bodiaivanov@gmail.com)
