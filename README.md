@@ -19,6 +19,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-a1d1ff?style=for-the-badge&logo=css3&logoColor=0084ff)
 
 ### Contact Me
-[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/adventure_dispetcher)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66BE?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/adventure-dispetcher/)
-[![Gmail](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=gmail&logoColor=)](mailto:bodiaivanov@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-fccfcf?style=for-the-badge&logo=gmail&logoColor=)](mailto:bodiaivanov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-cde4fa?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/adventure_dispetcher)
