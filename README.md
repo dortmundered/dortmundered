@@ -1,6 +1,6 @@
 [![Header](https://github.com/dortmundered/dortmundered/blob/main/assets/Screenshot_2.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## I’m a Junior QA Manual, and I like what i do
+## I’m a QA Manual, and I like what I do (rly)
 ## My CV 
 [CV Link](https://cvqamanual.netlify.app/)
 
@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-f7dfa1?style=for-the-badge&logo=html5&logoColor=)
 ![CSS](https://img.shields.io/badge/-CSS-a1d1ff?style=for-the-badge&logo=css3&logoColor=0084ff)
 
-### Pet Projects
+### Testing Documentation
 [![Web Testing](https://img.shields.io/badge/-WebTesting-55e8f2?style=for-the-badge&logo=&logoColor=)](https://adventure-dispetcher.atlassian.net/l/cp/z0Fd1qF8)
 [![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-55e8f2?style=for-the-badge&logo=&logoColor=)](https://adventure-dispetcher.atlassian.net/l/cp/4m1qhafM)
 
